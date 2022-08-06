@@ -15,9 +15,9 @@ export default function Tratamentos() {
                   </div>
                   <h3>Implantandontia</h3>
               </div>
-              <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                 Saepe, nostrum sint! Eius repellat molestiae quisquam optio, deleniti reiciendis 
-                distinctio beatae accusamus corrupti harum, sed placeat ea repellendus. Aperiam, quod iste.</h3>
+              <h3>O tratamento com implantes dentrários visa substituir ou repor dentes perdidos por parafusos de 
+                titáno que funcionam como substitutos das raízes dos dentes. O tratamento é extremamente seguro e com altíssimo índice de sucesso,
+                desdde que seja realizado por profissional capacitado</h3>
 
             </div>
 
@@ -26,11 +26,11 @@ export default function Tratamentos() {
                   <div className="fa-icon">
                     <FaCheck/>
                   </div>
-                  <h3>Implantandontia</h3>
+                  <h3>Prótese Dental</h3>
               </div>
-              <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                 Saepe, nostrum sint! Eius repellat molestiae quisquam optio, deleniti reiciendis 
-                distinctio beatae accusamus corrupti harum, sed placeat ea repellendus. Aperiam, quod iste.</h3>
+               <h3>O tratamento com implantes dentrários visa substituir ou repor dentes perdidos por parafusos de 
+                titáno que funcionam como substitutos das raízes dos dentes. O tratamento é extremamente seguro e com altíssimo índice de sucesso,
+                desdde que seja realizado por profissional capacitado</h3>
                 
             </div>
             <div className="box">
@@ -38,22 +38,22 @@ export default function Tratamentos() {
                   <div className="fa-icon">
                     <FaCheck/>
                   </div>
-                  <h3>Implantandontia</h3>
+                  <h3>Ortodontia</h3>
               </div>
-              <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                 Saepe, nostrum sint! Eius repellat molestiae quisquam optio, deleniti reiciendis 
-                distinctio beatae accusamus corrupti harum, sed placeat ea repellendus. Aperiam, quod iste.</h3>
+              <h3>O tratamento com implantes dentrários visa substituir ou repor dentes perdidos por parafusos de 
+                titáno que funcionam como substitutos das raízes dos dentes. O tratamento é extremamente seguro e com altíssimo índice de sucesso,
+                desdde que seja realizado por profissional capacitado</h3>
             </div>
             <div className="box">
             <div className="titulo">
                   <div className="fa-icon">
                     <FaCheck/>
                   </div>
-                  <h3>Implantandontia</h3>
+                  <h3>Estética</h3>
               </div>
-              <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                 Saepe, nostrum sint! Eius repellat molestiae quisquam optio, deleniti reiciendis 
-                distinctio beatae accusamus corrupti harum, sed placeat ea repellendus. Aperiam, quod iste.</h3>
+              <h3>O tratamento com implantes dentrários visa substituir ou repor dentes perdidos por parafusos de 
+                titáno que funcionam como substitutos das raízes dos dentes. O tratamento é extremamente seguro e com altíssimo índice de sucesso,
+                desdde que seja realizado por profissional capacitado</h3>
             </div>
             
         </div>

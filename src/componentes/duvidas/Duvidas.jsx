@@ -26,7 +26,7 @@ export default function Duvidas() {
                                 <AccordionItem className='ac'>
                                     <AccordionItemHeading>
                                         <AccordionItemButton>
-                                            What harsh truths do you prefer to ignore?
+                                            01 - Será que tenho DTM?
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                     <AccordionItemPanel>
@@ -42,7 +42,7 @@ export default function Duvidas() {
                                 <AccordionItem className='ac'>
                                     <AccordionItemHeading>
                                         <AccordionItemButton>
-                                            What harsh truths do you prefer to ignore?
+                                            02 - O que é DTM?
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                     <AccordionItemPanel>
@@ -58,7 +58,7 @@ export default function Duvidas() {
                                 <AccordionItem className='ac'>
                                     <AccordionItemHeading>
                                         <AccordionItemButton>
-                                            What harsh truths do you prefer to ignore?
+                                            03 - O que é bichectomia?
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                     <AccordionItemPanel>
@@ -74,7 +74,7 @@ export default function Duvidas() {
                                 <AccordionItem className='ac'>
                                     <AccordionItemHeading>
                                         <AccordionItemButton>
-                                            What harsh truths do you prefer to ignore?
+                                            04 - Dentista pode aplicar botox?
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                     <AccordionItemPanel>
@@ -90,7 +90,7 @@ export default function Duvidas() {
                                 <AccordionItem className='ac'>
                                     <AccordionItemHeading>
                                         <AccordionItemButton>
-                                            What harsh truths do you prefer to ignore?
+                                            05 - O que é harmonização facial?
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                     <AccordionItemPanel>
@@ -105,8 +105,8 @@ export default function Duvidas() {
 
                                 <AccordionItem className='ac'>
                                     <AccordionItemHeading>
-                                        <AccordionItemButton>
-                                            What harsh truths do you prefer to ignore?
+                                        <AccordionItemButton className='ac-btn'>
+                                            06 - Aparelhos estéticos funcionam como os metálicos?
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                     <AccordionItemPanel>

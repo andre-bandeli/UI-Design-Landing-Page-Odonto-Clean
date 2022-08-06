@@ -68,8 +68,8 @@ export default function Clientes() {
                 </div>
                 <div className="imagem">
               
-              </div>
-
+                </div>
+              
           </div>
 
          

@@ -18,8 +18,7 @@ export default function Time() {
   return (
     <div className='time'>
       <h2>Dentistas Certificados</h2>
-      <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam quae fugiat odit a optio, nam dolorem deleniti soluta,
-         quibusdam fugit aliquam reprehenderit voluptate dignissimos. Vel corporis vitae numquam ratione tempore.</h3>
+      <h3>Nossa equipe de dentistas e assistentes é formada apenas por profissionais altamente qualificados.</h3>
         <div className="container">
 
         <ReactElasticCarousel breakPoints={breakPoints}>
@@ -40,7 +39,7 @@ export default function Time() {
             </div>
             <div className="nome">
             <h2>Dra. Ana Pereira</h2>
-              <h3>Ortodontista</h3>
+              <h3>Clínica geral</h3>
             </div>
 
           </div>
