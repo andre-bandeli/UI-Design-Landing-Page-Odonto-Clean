@@ -12,15 +12,15 @@ import Tratamentos from './componentes/tratamentos/Tratamentos';
 function App() {
   return (
     <div className="App">
-      <Navbar/>
+      {/* <Navbar/> */}
       <Slider/>
       <Cards/>
-      <Tratamentos/>
+      {/* <Tratamentos/>
       <Time/>
       <Folder/>
       <Clientes/>
       <Duvidas/>
-      <Footer/>
+      <Footer/> */}
     </div>
   );
 }
