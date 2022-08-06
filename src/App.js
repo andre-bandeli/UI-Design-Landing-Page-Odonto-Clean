@@ -20,7 +20,7 @@ function App() {
       <Folder/>
       <Clientes/>
       <Duvidas/>
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   );
 }
