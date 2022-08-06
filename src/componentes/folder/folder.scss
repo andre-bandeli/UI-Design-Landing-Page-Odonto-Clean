@@ -49,6 +49,34 @@
                 font-weight: 100;
                 font-size: 16px;
                 cursor: pointer;
+                animation: alternate-reverse border-color;
+            }
+
+            @keyframes border-color {
+                100% {
+                    border-right: 1px solid red;
+                    background-color: black;
+
+                }
+                75% {
+                    
+                    border-left: none;
+                    border-bottom: 1px solid red;
+
+                }
+                50% {
+                    border-bottom: none;
+                    border-left: 1px solid red;
+                }
+                25% {
+                    border-left: none;
+                    border-top: 1px solid red;
+                }
+                0% {
+                    border-top: none;
+                    border-right: 1px solid rgb(0, 0, 0);
+                }
+                
             }
         }
         .col-4 {
