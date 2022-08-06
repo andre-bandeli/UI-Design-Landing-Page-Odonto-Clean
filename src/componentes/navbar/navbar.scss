@@ -23,12 +23,18 @@
                 width: 100%;
                 height: 100%;
             }
-
         }
         .nav {
+
             width: 60%;
             height: 100%;
             display: flex;
+
+            .menu-mobile {
+                width: 0%;
+                height: 0%;
+                visibility: hidden;
+            }
 
             ul {
 
@@ -39,11 +45,13 @@
                 border-right: 1px solid black;
 
                 li {
+
                     padding: 15px;
                     margin-left: 15px;
                     text-align: right;
                     list-style: none;
                     cursor: pointer;
+
                 }
                 li:hover {
                     font-weight: bold;
@@ -51,9 +59,9 @@
                 }
 
             }
-
         }
         .btn-agendar {
+
             width: 10%;
             height: 100%;
 
@@ -71,6 +79,67 @@
             }
         }
     }
+}
+
+@media (max-width: 768px) {
+
+    .navbar {
+
+        .container {
 
 
+            .col-logo {
+
+                width: 35%;
+
+                
+                img {
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+            .nav {
+                width: 65%;
+
+                .menu-mobile {
+
+                    visibility: visible;
+                    width: 20%;
+                    height: 80%;
+                    margin-top: 2vh;
+                    margin-left: 75%;
+                    background-color: blue;
+                }
+                .container {
+                    position: fixed;
+                    width: 100%;
+                    height: 100vh;
+                    z-index: 9999999999999;
+                    visibility: hidden;
+                    background-color: rgba(36, 140, 209, 0.952);
+
+                    ul {
+                        display: inline;
+                        margin: 0vh;
+
+                        li {
+                            width: 55%;
+                            color: black;
+                
+                            font-size: 25px;
+                            margin: 0vh;
+                            margin-top: 10vh;
+                            text-align: left;
+                        }
+                    }
+                }
+            }
+            .btn-agendar {
+                width: 0%;
+                height: 0%;
+                visibility: hidden;
+            }
+        }
+        
+    }
 }

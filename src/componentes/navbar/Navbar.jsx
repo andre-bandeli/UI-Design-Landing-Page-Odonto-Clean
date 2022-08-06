@@ -1,6 +1,6 @@
 import React from 'react'
 import './navbar.scss'
-
+import { FaBars } from 'react-icons/fa';
 export default function Navbar() {
   return (
     <div className='navbar'>
@@ -11,8 +11,12 @@ export default function Navbar() {
             </div>
             <div className="nav">
 
-              <div className="container">
+              <div className="menu-mobile">
+                  <FaBars/>
+              </div>
 
+              <div className="container">
+                
                   <ul>
                     <li>Home</li>
                     <li>Sobre</li>
