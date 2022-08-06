@@ -10,10 +10,12 @@
 
 Veja online: https://andre-bandeli.github.io/UI-Design-Landing-Page-Odoton-Clean/
 
+UI/UX Design: https://www.behance.net/gallery/149465719/UI-Design-Landing-Page-Odoton-Clean
+
 
 ### Descrição e Motivações
 
-Este é um projeto para estudos, desenvolvido através do template disponibilizado pelo designer Tialgo Alves, disponível em: https://www.behance.net/gallery/149465719/UI-Design-Landing-Page-Odoton-Clean. Template desenvolvido utilizando React JS, React Router DOM, Jquery, react-elastic-carousel antre outras bibliotecas e stacks.
+Este é um projeto para estudos, desenvolvido através do template disponibilizado pelo designer Tialgo Alves. Página desenvolvida utilizando React JS, React Router DOM, Jquery, react-elastic-carousel antre outras bibliotecas e stacks.
 
 
 
@@ -30,9 +32,17 @@ Crie uma pasta e clone o projeto. Certifique-se de ter insdtalado em sua máquin
 
 ### Pacotes Importantes:
 
-- sass
-- react-elastic-carousel
+SASS
 
+                npm install sass
+
+react-elastic-carousel
+
+                npm -i react-elastic-carousel
+
+dom
+
+                npm i react-router-dom
 
 ### Ferramentas utilizadas:
 
