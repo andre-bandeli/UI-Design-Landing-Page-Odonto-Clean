@@ -25,6 +25,8 @@ export default function Navbar() {
           
             </div>
             <div className="btn-agendar">
+
+              <button className='btn'>AGENDAR</button>
                 
             </div>
         </div>
