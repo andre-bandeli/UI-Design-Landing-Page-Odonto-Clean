@@ -17,10 +17,10 @@ function App() {
       <Cards/>
       <Tratamentos/>
       <Time/>
-      {/* <Folder/>
+      <Folder/>
       <Clientes/>
       <Duvidas/>
-      <Footer/> */}
+      {/* <Footer/> */}
     </div>
   );
 }

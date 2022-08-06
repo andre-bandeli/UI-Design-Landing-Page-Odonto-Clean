@@ -63,3 +63,57 @@
         }
     }
 }
+
+@media (max-width: 1440px) {
+
+
+    .clientes {
+
+
+
+        .container {
+            width: 95%;
+            height: 50vh;
+            margin: auto;
+            margin-top: 5vh;
+            
+
+            .box {
+                width: 90%;
+            }
+        }
+    }
+    
+}
+
+@media (max-width: 550px) {
+
+    .clientes {
+
+
+
+        .container {            
+
+            .box {
+                width: 90%;
+                height: auto;
+
+                .text {
+                    margin-top: 10vh;
+
+                    h3 {
+
+                        font-size: 16px;
+                    }
+                }
+                .imagem {
+                    width: 80px;
+                    height: 80px;
+                    margin-bottom: 5vh;
+                }
+            }
+        }
+    }
+    
+    
+}
