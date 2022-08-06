@@ -2,21 +2,71 @@
 .slider {
 
     width: 100%;
-    height: 100vh;
+    height: 70vh;
+    margin-top: -5vh;
     background-color: rgb(49, 48, 48);
+    z-index: 9;
+    position: absolute;
 
     .container {
 
         width: 100%;
-        height: 80%;
-        background-color: yellow;
+        height: 100%;
+        background-color: #cae2ee;
         display: flex;
 
         .col-6 {
-            
+            color: black;
             width: 50%;
             height: 100%;
-            border: 1px solid orangered;
+            text-align: left;
+
+            .color-text {
+
+                background-color: #9cdaf1;
+                padding: 5px;
+                border: 10px;
+            }
+
+            .btn-intro {
+                width: 23%;
+                height: 4.5vh;
+                border: none;
+                background-color: #26b6eb;
+                margin-left: 25vh;
+                color: white;
+                font-weight: bold;
+                cursor: pointer;
+            }
+            .btn-intro-secundary {
+                width: 23%;
+                height: 4.5vh;
+                border: .5px solid rgba(0, 0, 0, 0.233);
+                background-color: #bbdae9;
+                margin-left: 2vh;
+                color: #17ace2;
+                font-weight: bold;
+                cursor: pointer;
+            }
+
+            h3 {
+                margin-left: 25%;
+                margin-top: 30%;
+                font-size: 30px;
+                font-weight: 200;
+            }
+            h2 {
+                font-size: 45px;
+                margin-left: 25%;
+                width: 55%;
+                margin-top: 1vh;
+            }
+
+            img {
+                width:100%;
+                height: 100%;
+                border-radius: 55px;
+            }
         }
     }
 }
