@@ -3,12 +3,78 @@
 
     width: 100%;
     height: 100vh;
-    background-color: red;
+
+
+    h2 {
+
+        text-align: left;
+        margin-left: 25vh;
+        font-size: 35px;
+        margin-top: 10vh;
+    }
+    h3 {
+        font-weight: 200;
+        width: 30%;
+        text-align: left;
+        margin-left: 25vh;
+    }
+
 
     .container {
-        width: 90%;
-        height: 100%;
+        width: 100%;
+        height: 60vh;
         margin: auto;
-        background-color: lime;
+        margin-top: 10vh;
+        position: absolute;
+
+        .box {
+            width: 95%;
+            height: 50vh;
+            margin-left: 5vh;
+            display: inline-block;
+            background-color: rgba(20, 189, 211, 0.432);
+            border-radius: 20px;
+            cursor: pointer;
+
+            .imagem {
+                width: 100%;
+                height: 80%;
+                border-radius: 20px;
+
+                img {
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+            .nome {
+                width: 100%;
+                height: 20%;
+                background-color: white;
+                border-radius: 5px;
+                display: inline-block;
+
+                h2 {
+                    color: black;
+                    margin-top: 1vh;
+                    font-size: 20px;
+                    margin-left: 2vh;
+                }
+                h3 {
+                    color: black;
+                    font-weight: 200;
+                    margin-top: 0vh;
+                    font-size: 20px;
+                    margin-left: 2vh;
+                }
+            }
+        }
+        .box:hover {
+            background-color: rgb(20, 189, 211);
+            transition: .5s ease-in-out;
+
+            img {
+                zoom: 1.8;
+            }
+        }
     }
 }
