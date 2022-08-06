@@ -54,3 +54,79 @@
         }
     }
 }
+
+
+@media (max-width: 768px) {
+
+
+    .tratamentos {
+            margin-top: 10vh;
+        
+        h2 {
+            margin-left: 10vh;
+        }
+
+        .container {
+                height: auto;
+                display: inline-block;
+
+            .box {
+                width: 80%;
+            
+                .fa-icon {
+                
+                }
+
+                .titulo {
+                
+
+                    h3 {
+                    
+                    }
+                }
+
+                h3 {
+                
+                }
+            }
+        }
+    }
+    
+}
+
+
+@media (max-width: 550px) {
+
+
+    .tratamentos {
+        
+        h2 {
+            margin-left: 5vh;
+
+        }
+
+        .container {
+    
+
+            .box {
+            
+                .fa-icon {
+                
+                }
+
+                .titulo {
+                
+
+                    h3 {
+                    
+                    }
+                }
+
+                h3 {
+                
+                }
+            }
+        }
+    }
+    
+}

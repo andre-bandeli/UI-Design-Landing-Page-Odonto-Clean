@@ -15,9 +15,9 @@ function App() {
       {/* <Navbar/> */}
       <Slider/>
       <Cards/>
-      {/* <Tratamentos/>
+      <Tratamentos/>
       <Time/>
-      <Folder/>
+      {/* <Folder/>
       <Clientes/>
       <Duvidas/>
       <Footer/> */}

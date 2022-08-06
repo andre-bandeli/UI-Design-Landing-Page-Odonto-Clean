@@ -78,3 +78,35 @@
         }
     }
 }
+
+@media (max-width: 768px) {
+
+    .time {
+        margin-top: 40vh;
+
+        h2 {
+            margin-left: 10vh;
+        }
+        h3 {
+            margin-left: 10vh;
+            width: 80%;
+        }
+    }
+    
+}
+
+@media (max-width: 550px) {
+
+    .time {
+        margin-top: 70vh;
+
+        h2 {
+            margin-left: 5vh;
+        }
+        h3 {
+            margin-left: 5vh;
+            width: 80%;
+        }
+    }
+    
+}
