@@ -8,18 +8,30 @@
 
 ### Status do Projeto
 
-Projeto em estágio inicial de desenvolvimento
+Veja online: https://andre-bandeli.github.io/UI-Design-Landing-Page-Odoton-Clean/
 
 
 ### Descrição e Motivações
 
+Este é um projeto para estudos, desenvolvido através do template disponibilizado pelo designer Tialgo Alves, disponível em: https://www.behance.net/gallery/149465719/UI-Design-Landing-Page-Odoton-Clean. Template desenvolvido utilizando React JS, React Router DOM, Jquery, react-elastic-carousel antre outras bibliotecas e stacks.
+
+
 
 ### Instalação:
+
+Crie uma pasta e clone o projeto. Certifique-se de ter insdtalado em sua máquina o Node. Caminhe até a pasta onde encontra-se a raíz do projeto e instale os pacotes necessários. Em seguida, execute o comando para iniciar a aplicação react.
+
+        git clone https://github.com/andre-bandeli/UI-Design-Landing-Page-Odoton-Clean.git
+        cd odonto
+        npx react instal
+        npm start
+        
 
 
 ### Pacotes Importantes:
 
 - sass
+- react-elastic-carousel
 
 
 ### Ferramentas utilizadas:
@@ -32,13 +44,15 @@ Projeto em estágio inicial de desenvolvimento
 
 ### Melhorias:
 
+- Correção navbar mobile
+- Correção responsivo
 
 ### Suporte
 
-EM caso de dúvidas, sugestões ou melhorias, abra uma nova issue ou envie uma mensagem através de alguma de minhas redes:
+Em caso de dúvidas, sugestões ou melhorias, abra uma nova issue ou envie uma mensagem através de alguma de minhas redes:
 
-- Email:
-- Linkedin
+- Email: andre.lbandeli@gmail.com
+- Linkedin: https://www.linkedin.com/in/andr%C3%A9bandeli/
 
 
 ### Créditos
