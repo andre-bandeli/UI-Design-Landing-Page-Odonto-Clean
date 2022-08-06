@@ -99,6 +99,38 @@
           
         }
 }
+@media (max-width: 1024px) {
+
+    .navbar {
+
+        .container-nav {
+
+            .nav {  
+                margin-left: 0vh;
+
+                .col-sm-nav {
+                    margin-left: 0%;
+
+                    ul {
+                        margin-left: 0vh;
+                    }
+            }
+            .btn-agendar {
+                
+                .btn {
+                    background-color: black;
+                    img {
+                        width: 10px;
+                        margin-left: 2vh;
+                        visibility: hidden;
+                    }
+                }
+            }
+        }
+    
+        }}
+    
+}
 
 @media (max-width: 768px) {
 
@@ -199,8 +231,6 @@
 @media (max-width: 550px) {
 
 
-    @media (max-width: 768px) {
-
         .navbar {
         
                 width: 100%;
@@ -208,22 +238,32 @@
 
                 .col-logo {
 
-                    width: 70%;
+                    width: 40%;
 
                 }
                 .nav {
-                    width: 40%;
+                    width: 60%;
+
                     margin-left: 0vh;
 
+                    .col-mobile {
 
-                    .menu {
-                        margin-left: -25vh;
+                        height: 10vh;
+                        width: 20%;
+                        margin-left: 25%;
+                        .menu {
+    
+                            img {
+                                width: 50px;
+                            }
+                        }
                     }
+
+                   
 
                 }
                 
             }
         }
-    }
         
 }
