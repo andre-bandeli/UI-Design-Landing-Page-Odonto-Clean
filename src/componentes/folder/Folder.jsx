@@ -10,7 +10,9 @@ export default function Folder() {
             <h3>Estamos ansiosos para conhecer você e sua família</h3>
 
             <button className='btn-secundary'> 
-              Agende Agora
+            <img src="imagens/layout/btncheckblack.png" alt="" />
+            <a href="">Agende Agora</a>
+              
             </button>
 
           </div>

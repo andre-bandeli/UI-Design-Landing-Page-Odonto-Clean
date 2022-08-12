@@ -14,16 +14,20 @@ export default function Slider() {
                     Realizando sonhos de um <span className='color-text'>Sorriso perfeito!</span>
                   </h2>
 
-                  <button className='btn-intro'>
-                    Entre em contato
-                  </button>
-                  <button className='btn-intro-secundary'>
-                    Entre em contato
-                  </button>
+                  <div className="btns">
+                      <button className='btn-intro'>
+                        Entre em contato
+                      </button>
+                      <button className='btn-intro-secundary'>
+                        Saiba mais
+                      </button>
+                  </div>
+
+              
             </div>
             <div className="col-6">
 
-              <img src="imagens/dentista_odontologia_hospitalar.jpeg" alt="" />
+              <img src="imagens/layout/imagemInicial.png" alt="" />
                 
             </div>
         </div>

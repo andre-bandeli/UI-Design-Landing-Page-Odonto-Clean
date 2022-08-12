@@ -10,7 +10,8 @@ export default function Time() {
     {width: 1, itemsToShow: 1 },
     {width: 375, itemsToShow: 1},
     {width: 550, itemsToShow: 1},
-    {width: 768, itemsToShow: 3},
+    {width: 768, itemsToShow: 2},
+    {width: 1024, itemsToShow: 2},
     {width: 1200, itemsToShow: 4},
   ]
 
@@ -24,7 +25,7 @@ export default function Time() {
         <ReactElasticCarousel breakPoints={breakPoints}>
           <div className='box'>
             <div className="imagem">
-                  <img src="imagens/medica-imagem-3.png" alt="" />
+                  <img src="imagens/layout/medico1.png" alt="" />
             </div>
             <div className="nome">
             <h2>Dra. Ana Pereira</h2>
@@ -35,7 +36,7 @@ export default function Time() {
 
           <div className='box'>
           <div className="imagem">
-                  <img src="imagens/doctor-3.png" alt="" />
+                  <img src="imagens/layout/medico2.png" alt="" />
             </div>
             <div className="nome">
             <h2>Dra. Katarina Alves</h2>
@@ -46,7 +47,7 @@ export default function Time() {
 
           <div className='box'>
           <div className="imagem">
-                  <img src="imagens/medico-1.png" alt="" />
+                  <img src="imagens/layout/medico3.png" alt="" />
             </div>
             <div className="nome">
             <h2>Dr. Gustavo Ramos</h2>
@@ -56,7 +57,7 @@ export default function Time() {
           </div>
           <div className='box'>
           <div className="imagem">
-                  <img src="imagens/medico-2.png" alt="" />
+                  <img src="imagens/layout/medico4.png" alt="" />
             </div>
             <div className="nome">
             <h2>Dr. Pedro Ribeiro</h2>

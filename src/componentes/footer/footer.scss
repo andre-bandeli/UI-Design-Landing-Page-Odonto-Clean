@@ -2,139 +2,102 @@
 .footer {
 
     width: 100%;
-    height: 30vh;
+    height: 200px;
     background-color: white;
-
+    
     .container {
-        width: 90%;
-        height: 80%;
-
+        width: 70%;
+        height: 100%;
         margin: auto;
         display: flex;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.514);
 
         .col-sm {
             width: 25%;
-            height: 80%;
-            margin-top: 7vh;
-            background-color: white;
-            border-right: .6px solid rgba(0, 0, 0, 0.521);
+            height: 100%;
 
             img {
-                width: 80%;
-                margin-top: 2vh;
+                width:180px;
+                margin-top: 8vh;
+                cursor: pointer;
             }
             h2 {
                 text-align: left;
                 margin-left: 3.5vh;
             }
             h3 {
-                text-align: left;
-                padding: 15px;
-                font-weight: 200;
-                margin-top: 3vh;
-                margin-left: 2vh;
+                margin-top: 5vh;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 16px;
+                margin-left: -8vh;
+                line-height: 22px;
+                /* identical to box height, or 157% */
+                /* Tipografia/Título */
+
+                color: rgba(2, 14, 31, 0.85);
+            }
+            .txt-ft {
+                display: flex;
+                margin-top: 0vh;
+                height: 2.5vh;
+
+                h4 {
+                    font-size: 13px;
+                    margin-top: 0vh;
+                    margin-left: 6vh;
+                    color: rgba(0, 0, 0, 0.692);
+                }
+                h5 {
+                    margin-left:1vh;
+                    font-weight: 200;
+                    margin-top: 0vh;
+                }
             }
             li {
                 list-style: none;
                 margin-top: 1vh;
                 text-align: left;
             }
+            .redes {
+                width: 150px;
+                height: 5vh;
+                margin-left: 3vh;
+                margin-top: 0vh;
 
-        }
-        .right {
-            border-right: none;
-            
-
-            img {
-                margin-top: 7vh;
-                width: 50px;
-                margin-left: 5vh;
+                img {
+                    width: 30px;
+                    margin-left: 2vh;
+                    margin-top: 0vh;
+                    cursor: pointer;
+                }
             }
 
         }
+        
     }
-}
-
-@media (max-width: 1024px) {
-
-.footer {
-
-    .container {
-     
-
-        .col-sm {
-         
-            img {
-                margin-top: 5vh;
-              
-            }
-            h2 {
-                
-            }
-            h3 {
-               
-            }
-            li {
-              
-            }
-
-        }
-        .right {
-            border-right: none;
-            
-
-            img {
-                margin-top: 7vh;
-                width: 40px;
-                margin-left: 2vh;
-            }
-
-        }
-    }
-}
-    
-}
-
-@media (max-width: 768px) {
-
-
-    .footer {
-    height: auto;
+    .copyright {
+        background-color: white;
+        width: 100%;
+        height: 5vh;
+        margin: auto;
 
         .container {
-        
-            display: inline-block;
+            margin: auto;
+            text-align: center;
 
-            .col-sm {
-                width: 90%;
-                border-right: none;
-                margin: auto;
-                margin-top: 5vh; margin-bottom: 5vh;
-                border-bottom: 1px solid black;
+            h3 {
+                width: 100%;
+                text-align: center;
+                font-size: 15px;
+                font-weight: 200;
 
-                img {
-                    width: 210px;
+                b {
+                    color: rgba(31, 29, 29, 0.877);
                 }
-                h2 {
-                    margin-top: 2vh;
-                    text-align: center;
-                }
-                li {
-                    text-align: center;
-                }
-            }
-            .right {
-                border-right: none;
-    
-                img {
-                    margin-top: 0vh;
-                    width: 50px;
-                    margin-left: 2vh;
-                    margin-bottom: 5vh;
-                }
-    
+
             }
         }
     }
-    
 }

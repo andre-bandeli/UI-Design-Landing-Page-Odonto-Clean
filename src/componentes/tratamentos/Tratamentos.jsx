@@ -11,7 +11,7 @@ export default function Tratamentos() {
 
               <div className="titulo">
                   <div className="fa-icon">
-                    <FaCheck/>
+                   <img src="imagens/layout/checkbox.png" alt="" />
                   </div>
                   <h3>Implantandontia</h3>
               </div>
@@ -24,7 +24,7 @@ export default function Tratamentos() {
             <div className="box">
             <div className="titulo">
                   <div className="fa-icon">
-                    <FaCheck/>
+                    <img src="imagens/layout/checkbox.png" alt="" />
                   </div>
                   <h3>Prótese Dental</h3>
               </div>
@@ -36,7 +36,7 @@ export default function Tratamentos() {
             <div className="box">
             <div className="titulo">
                   <div className="fa-icon">
-                    <FaCheck/>
+                        <img src="imagens/layout/checkbox.png" alt="" />
                   </div>
                   <h3>Ortodontia</h3>
               </div>
@@ -47,7 +47,7 @@ export default function Tratamentos() {
             <div className="box">
             <div className="titulo">
                   <div className="fa-icon">
-                    <FaCheck/>
+                        <img src="imagens/layout/checkbox.png" alt="" />
                   </div>
                   <h3>Estética</h3>
               </div>

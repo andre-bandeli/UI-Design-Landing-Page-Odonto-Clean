@@ -26,7 +26,7 @@ export default function Navbar() {
 
         <div className="container-nav">
             <div className="col-logo">
-              <img src="imagens/logo.png" alt="" />
+              <img src="imagens/layout/logo.svg" alt="" />
             </div>
             <div className="nav">
 
@@ -60,7 +60,8 @@ export default function Navbar() {
             </div>
             <div className="btn-agendar">
 
-              <button className='btn'> <img src="icones/agenda.png" alt="" /> AGENDAR</button>
+              <button className='btn'> <img src="imagens/layout/btncheck.png" alt="" />
+              <a href="">AGENDAR</a></button>
                 
             </div>
         </div>

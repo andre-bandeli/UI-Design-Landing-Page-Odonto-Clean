@@ -16,10 +16,8 @@
         display: flex;
 
         .col-8 {
-
             width: 60%;
             height: 100%;
-            
 
             h2 {
                 width: 60%;
@@ -39,30 +37,39 @@
             }
 
             .btn-secundary {
-                width: 23%;
+                width: 200px;
                 height: 4vh;
                 border: none;
                 color: black;
                 border-radius: 5px;
-                margin-left: -25vh;
+                margin-left: 14vh;
                 background-color: #f4f6f7;
                 font-weight: 100;
                 font-size: 16px;
                 cursor: pointer;
                 animation: alternate-reverse border-color;
+                display: flex;
+
+                a {
+                    color: black;
+                    text-decoration: none;
+                    margin-top: 1vh;
+                    margin-left: 2vh;
+                }
+                img {
+                    margin-top: .5vh;
+                    margin-left: 1vh;
+                }
             }
 
             @keyframes border-color {
                 100% {
                     border-right: 1px solid red;
                     background-color: black;
-
                 }
                 75% {
-                    
                     border-left: none;
                     border-bottom: 1px solid red;
-
                 }
                 50% {
                     border-bottom: none;
@@ -75,8 +82,7 @@
                 0% {
                     border-top: none;
                     border-right: 1px solid rgb(0, 0, 0);
-                }
-                
+                }           
             }
         }
         .col-4 {

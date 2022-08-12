@@ -7,7 +7,6 @@
     margin-top: 5vh;
     
     h2 {
-
         text-align: left;
         margin-left: 28vh;
         font-size: 35px;
@@ -20,8 +19,7 @@
         margin: auto;
         display: flex;
         flex-wrap: wrap;
-        border-bottom: 1px solid black;
-
+        border-bottom: 1px solid rgba(39, 37, 37, 0.418);
         justify-content: space-between;
 
         .box {
@@ -30,23 +28,19 @@
             padding: 15px;
             margin: auto;
 
-            .fa-icon {
-                margin-top: 2.5vh;
-                background-color: rgba(0, 0, 255, 0.247);
-                height: 2vh;
-                width: 3vh;
+            img {
+                margin-top: 3px;
             }
 
             .titulo {
                 display: flex;
-
                 h3 {
                     margin-left: 1vh;
+                    margin-top: 0vh;
                     font-weight: bold;
                     line-height: 35px;
                 }
             }
-
             h3 {
                 text-align: left;
                 font-weight: 300;
@@ -57,10 +51,41 @@
     }
 }
 
+@media (max-width: 1024px) {
+    .tratamentos {
+        height: auto;
+         
+        h2 {
+            margin-left: 17vh;
+        }
+        .container {
+            .box {
+                width: 80%;
+                height: auto;
+            }
+        }
+    }   
+}
 
+@media (max-width: 1440px) {
+    .tratamentos {
+        height: auto;
+        h2 {
+            margin-left: 20vh;
+        }
+    }
+}
+@media (max-width: 1024px) {
+
+
+    .tratamentos {
+        
+        h2 {
+            margin-left: 15vh;
+        }
+    }
+}
 @media (max-width: 768px) {
-
-
     .tratamentos {
             margin-top: 10vh;
             height: auto;
@@ -68,70 +93,32 @@
         h2 {
             margin-left: 10vh;
         }
-
         .container {
                 height: auto;
                 display: inline-block;
 
             .box {
                 width: 80%;
-            
-                .fa-icon {
-                
-                }
-
-                .titulo {
-                
-
-                    h3 {
-                    
-                    }
-                }
-
-                h3 {
-                
-                }
             }
         }
     }
-    
 }
 
-
 @media (max-width: 550px) {
-
-
     .tratamentos {
         height: auto;
-        margin-top: 40vh;
+        margin-top: 10vh;
         
         h2 {
             margin-left: 5vh;
-
         }
+    }
+}
 
-        .container {
-    
+@media (max-width: 400px) {
 
-            .box {
-            
-                .fa-icon {
-                
-                }
-
-                .titulo {
-                
-
-                    h3 {
-                    
-                    }
-                }
-
-                h3 {
-                
-                }
-            }
-        }
+    .tratamentos {
+        margin-top: 25vh;
     }
     
 }

@@ -2,14 +2,14 @@
 .time {
 
     width: 100%;
-    height: 100vh;
+    height: 75vh;
     margin-top: 30vh;
 
 
     h2 {
 
         text-align: left;
-        margin-left: 10vh;
+        margin-left: 320px;
         font-size: 35px;
         margin-top: 10vh;
     }
@@ -17,20 +17,19 @@
         font-weight: 200;
         width: 30%;
         text-align: left;
-        margin-left: 10vh;
+        margin-left: 320px;
     }
 
 
     .container {
-        width: 100%;
+        width: 80%;
         height: 60vh;
         margin: auto;
         margin-top: 10vh;
-        position: absolute;
 
         .box {
-            width: 95%;
-            height: 50vh;
+            width: 270px;
+            height: 370px;
             margin-left: 5vh;
             display: inline-block;
             background-color: rgba(20, 189, 211, 0.432);
@@ -38,18 +37,20 @@
             cursor: pointer;
 
             .imagem {
-                width: 100%;
-                height: 80%;
+                width: 215px;
+                height: 277;
                 border-radius: 20px;
 
                 img {
                     width: 100%;
                     height: 100%;
+                    margin-left: 20px;
                 }
             }
             .nome {
                 width: 100%;
-                height: 20%;
+                height: 210px;
+                margin-top: -10px;
                 background-color: white;
                 border-radius: 5px;
                 display: inline-block;
@@ -74,7 +75,11 @@
             transition: .5s ease-in-out;
 
             img {
-                zoom: 1.8;
+                width: 270px;
+                margin-left: 0vh;
+                margin-top: -2vh;
+                transition: .8s;
+                z-index: 1;
             }
         }
     }
@@ -109,6 +114,29 @@
             margin-left: 5vh;
             width: 80%;
         }
+        .container {
+            .box {
+                .imagem {
+                    img {
+                        width: 200px;
+                        margin-left: 0vh;
+                    }
+                }
+                .nome {
+                    margin-top: -1vh;
+                    height: 15vh;
+                    h2 {
+                        font-size: 15px;
+                    }
+                    h3 {
+                        font-size: 12px;
+                    }
+                }
+                
+            }
+        }
+        
+        
     }
     
 }
