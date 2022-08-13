@@ -56,8 +56,10 @@ dom
 
 ### Melhorias:
 
-- Correção navbar mobile
-- Correção responsivo
+- <s> Correção navbar mobile </s>
+- <s> Correção responsivo </s>
+- correção navbar >1200px
+- links navbar
 
 ### Suporte
 
