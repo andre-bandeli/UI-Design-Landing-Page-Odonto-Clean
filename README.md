@@ -66,7 +66,7 @@ dom
 Em caso de dúvidas, sugestões ou melhorias, abra uma nova issue ou envie uma mensagem através de alguma de minhas redes:
 
 - Email: andre.lbandeli@gmail.com
-- Linkedin: https://www.linkedin.com/in/andr%C3%A9bandeli/
+- Linkedin: https://www.linkedin.com/in/andrébandeli/
 
 
 ### Créditos
