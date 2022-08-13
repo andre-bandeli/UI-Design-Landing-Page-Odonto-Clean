@@ -21,6 +21,7 @@
     display: inline-block;
     margin: 1.5vw;
     list-style: none;
+    
 }
 
 .Navbar nav ul li a {
@@ -39,7 +40,11 @@
 }
 .Navbar .MobileNavigation {
     display: none;
-    height: 10px;
+    width: 0%;
+    left: 600px;
+    height: 30px;
+    top: 0;
+    background-color: yellow;
 }
 
 .btn-agendar {
@@ -87,6 +92,7 @@
         width: 50%;
         margin-left: 350px;
         margin-top: 30px;
+        
     }
 }
 @media (max-width: 990px) {
