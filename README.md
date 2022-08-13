@@ -23,7 +23,7 @@ Este é um projeto para estudos, desenvolvido através do template disponibiliza
 
 
 Crie uma pasta e clone o projeto. Certifique-se de ter insdtalado em sua máquina o Node e o React (https://pt-br.reactjs.org/).
-Caminhe até a pasta onde encontra-se a raíz do projeto (onde encontra-se as pastas 'src', 'public', etc, dentro do diretório <odonto> e instale os pacotes necessários. Em seguida, execute o comando para iniciar a aplicação react.
+Caminhe até a pasta onde encontra-se a raíz do projeto (odonto > 'src', 'public', etc) e instale os pacotes necessários. Em seguida, execute o comando para iniciar a aplicação react.
 
         git clone https://github.com/andre-bandeli/UI-Design-Landing-Page-Odoton-Clean.git
         cd odonto
@@ -72,8 +72,9 @@ Em caso de dúvidas, sugestões ou melhorias, abra uma nova issue ou envie uma m
 ### Créditos
 
 Desing criado por Tiago Alves: 
-https://www.behance.net/gallery/149465719/UI-Design-Landing-Page-Odoton-Clean
+                https://www.behance.net/gallery/149465719/UI-Design-Landing-Page-Odoton-Clean
 
-Responsive navbar: https://www.youtube.com/watch?v=Et5tDPoU03c&t=858s
+Responsive navbar
+                https://www.youtube.com/watch?v=Et5tDPoU03c&t=858s
 
 
