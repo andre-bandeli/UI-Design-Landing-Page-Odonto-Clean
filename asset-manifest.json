@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UI-Design-Landing-Page-Odoton-Clean/static/css/main.03f8d089.css",
+    "main.js": "/UI-Design-Landing-Page-Odoton-Clean/static/js/main.99467663.js",
+    "index.html": "/UI-Design-Landing-Page-Odoton-Clean/index.html",
+    "main.03f8d089.css.map": "/UI-Design-Landing-Page-Odoton-Clean/static/css/main.03f8d089.css.map",
+    "main.99467663.js.map": "/UI-Design-Landing-Page-Odoton-Clean/static/js/main.99467663.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f8d089.css",
+    "static/js/main.99467663.js"
+  ]
+}
