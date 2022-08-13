@@ -8,6 +8,8 @@
 
 ### Status do Projeto
 
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+
 Veja online: https://andre-bandeli.github.io/UI-Design-Landing-Page-Odoton-Clean/
 
 UI/UX Design: https://www.behance.net/gallery/149465719/UI-Design-Landing-Page-Odoton-Clean
