@@ -83,4 +83,3 @@ Responsive navbar
 
 ![img-2](https://user-images.githubusercontent.com/87938869/193341542-c0922fdd-472d-4a4c-9be2-d037052df4f4.jpg)
 ![img-1](https://user-images.githubusercontent.com/87938869/193341563-31fd9591-5b7c-4d86-aea7-50b0eec21598.jpg)
-![img-3](https://user-images.githubusercontent.com/87938869/193341570-0349e8c3-0933-492c-95e6-f5a4628b3a77.jpg)
