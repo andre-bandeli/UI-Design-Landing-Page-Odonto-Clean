@@ -12,7 +12,6 @@
 
 Veja online: https://andre-bandeli.github.io/UI-Design-Landing-Page-Odonto-Clean/
 
-UI/UX Design: https://www.behance.net/gallery/149465719/UI-Design-Landing-Page-Odoton-Clean
 
 
 ### Descrição e Motivações
@@ -75,9 +74,9 @@ Em caso de dúvidas, sugestões ou melhorias, abra uma nova issue ou envie uma m
 
 Desing criado por Tiago Alves
 
-                https://www.behance.net/gallery/149465719/UI-Design-Landing-Page-Odoton-Clean
-                https://www.figma.com/file/JPJsSVpSdpVb4QAfBOE6Ij/Landign-Page
+- https://www.behance.net/gallery/149465719/UI-Design-Landing-Page-Odoton-Clean
+- https://www.figma.com/file/JPJsSVpSdpVb4QAfBOE6Ij/Landign-Page
 
 Responsive navbar
 
-                https://www.youtube.com/watch?v=Et5tDPoU03c&t=858s
+- https://www.youtube.com/watch?v=Et5tDPoU03c&t=858s
