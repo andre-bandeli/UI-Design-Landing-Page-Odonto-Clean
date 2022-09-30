@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UI-Design-Landing-Page-Odonto-Clean/static/css/main.4f11b1ea.css",
+    "main.js": "/UI-Design-Landing-Page-Odonto-Clean/static/js/main.4c92cef5.js",
+    "static/media/imagemInicial.png": "/UI-Design-Landing-Page-Odonto-Clean/static/media/imagemInicial.a4366b48a1867b0a1f1f.png",
+    "static/media/escovando-dentes.jpg": "/UI-Design-Landing-Page-Odonto-Clean/static/media/escovando-dentes.f83d2ebbf0d649429915.jpg",
+    "static/media/med-1.png": "/UI-Design-Landing-Page-Odonto-Clean/static/media/med-1.90b024ee4f49d9bf4adc.png",
+    "static/media/dentista.jpeg": "/UI-Design-Landing-Page-Odonto-Clean/static/media/dentista.38b3dcd0e3ea787ed437.jpeg",
+    "static/media/med-3.png": "/UI-Design-Landing-Page-Odonto-Clean/static/media/med-3.a145b2a3164dcf4ea72b.png",
+    "static/media/med-4.png": "/UI-Design-Landing-Page-Odonto-Clean/static/media/med-4.47407e7719d4dbc384a6.png",
+    "static/media/med-2.png": "/UI-Design-Landing-Page-Odonto-Clean/static/media/med-2.d9ee06f7df18cc48ac05.png",
+    "static/media/sorriso.jpg": "/UI-Design-Landing-Page-Odonto-Clean/static/media/sorriso.bfd5366262173b3403ae.jpg",
+    "static/media/logo.svg": "/UI-Design-Landing-Page-Odonto-Clean/static/media/logo.c5c7664a15cf9fe798075ea72b6848ae.svg",
+    "index.html": "/UI-Design-Landing-Page-Odonto-Clean/index.html",
+    "main.4f11b1ea.css.map": "/UI-Design-Landing-Page-Odonto-Clean/static/css/main.4f11b1ea.css.map",
+    "main.4c92cef5.js.map": "/UI-Design-Landing-Page-Odonto-Clean/static/js/main.4c92cef5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f11b1ea.css",
+    "static/js/main.4c92cef5.js"
+  ]
+}
