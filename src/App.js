@@ -4,9 +4,9 @@ import Clientes from './componentes/clientes/Clientes';
 import Duvidas from './componentes/duvidas/Duvidas';
 import Folder from './componentes/folder/Folder';
 import Footer from './componentes/footer/Footer';
+import Header from './componentes/header/Header';
 import Navbar from './componentes/Nav/Navbar';
 
-import Slider from './componentes/slider/Slider';
 import Time from './componentes/time/Time';
 import Tratamentos from './componentes/tratamentos/Tratamentos';
 
@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      <Slider/>
+      <Header/>
       <Cards/>
       <Tratamentos/>
       <Time/>

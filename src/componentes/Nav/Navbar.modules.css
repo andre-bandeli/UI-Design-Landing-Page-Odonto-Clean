@@ -11,6 +11,7 @@
     z-index: 99999999;
 }
 
+
 .Navbar nav ul  {
     width: 40%;
     margin: auto ;
@@ -78,12 +79,40 @@
     margin: 0;
 }
 
+
+@media (max-width: 1440px) {
+ 
+    .Navbar nav {
+        width: 100%;
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    .Navbar nav ul{
+        width: 55%;
+        margin-left: 250px;
+        margin-top: 10px;    
+        border: none; 
+    }
+    .btn {
+        visibility: hidden;
+    }
+    .btn img {
+      width: 20px;
+      margin-left: 0vh;
+    }
+    .Navbar .Navigation img {
+        margin-top: -1.5vh;
+        margin-left: -25vh;
+    }
+  
+}
 @media (max-width: 1024px) {
     .Navbar {
         top: 0;
     }
     .Navbar .Navigation img {
         left: 50px;
+        margin-left: 0vh;
     }
     .btn-agendar {
         display: none;
@@ -91,13 +120,13 @@
     .Navbar nav ul{
         width: 50%;
         margin-left: 350px;
-        margin-top: 30px;
+        margin-top: 15px;
         
     }
 }
 @media (max-width: 990px) {
     .Navbar {
-        height: 15vh;
+        height: 13vh;
     }
     .Navbar .Navgation {
         display: none;
@@ -159,6 +188,9 @@
 
         top: 20px;
     }
+    .Navbar .Navigation img {
+        margin-top: -15px;
+    }
 
 }
 @media (max-width: 550px) {
@@ -168,5 +200,20 @@
     .Navbar nav ul{
         margin-left: 0;
     }
+    .Navbar .Navigation img {
+        width: 130px;
+        margin-top: -.5vh;
+    }
 
+}
+@media (max-width: 390px) {
+    .Navbar {
+        height: 12vh;
+    }
+    .Navbar nav ul{
+        margin-left: 0;
+    }
+    .Navbar .Navigation img {
+        width: 130px;
+    }
 }

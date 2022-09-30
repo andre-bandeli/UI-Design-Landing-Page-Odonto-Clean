@@ -1,9 +1,9 @@
 import React from 'react'
-import './slider.scss'
+import './header.scss'
 
 import imagemHeader from'./imagens/imagemInicial.png';
 
-export default function Slider() {
+export default function Header() {
   return (
     <div className='slider'>
 
