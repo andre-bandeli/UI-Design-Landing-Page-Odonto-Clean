@@ -1,6 +1,9 @@
 import React from 'react'
 import './folder.scss'
 
+import imagem from './imagens/dentista.jpeg';
+import bntC from './imagens/btncheckblack.png';
+
 export default function Folder() {
   return (
     <div className='folder'>
@@ -10,14 +13,14 @@ export default function Folder() {
             <h3>Estamos ansiosos para conhecer você e sua família</h3>
 
             <button className='btn-secundary'> 
-            <img src="imagens/layout/btncheckblack.png" alt="" />
+            <img src={bntC} alt="imagem botao agendar" />
             <a href="">Agende Agora</a>
               
             </button>
 
           </div>
             <div className="col-4">
-                <img src="imagens/paciente-dentista.jpg" alt="" />
+                <img src={imagem} alt="imagem dentista com paciente" />
             </div>
         </div>
     </div>

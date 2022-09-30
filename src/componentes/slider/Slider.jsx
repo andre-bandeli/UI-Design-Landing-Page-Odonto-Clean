@@ -1,6 +1,8 @@
 import React from 'react'
 import './slider.scss'
 
+import imagemHeader from'./imagens/imagemInicial.png';
+
 export default function Slider() {
   return (
     <div className='slider'>
@@ -27,7 +29,7 @@ export default function Slider() {
             </div>
             <div className="col-6">
 
-              <img src="imagens/layout/imagemInicial.png" alt="" />
+              <img src={imagemHeader} alt="imagem-inicial" />
                 
             </div>
         </div>

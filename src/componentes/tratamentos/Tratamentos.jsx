@@ -1,6 +1,7 @@
 import React from 'react'
 import './tratamentos.scss'
-import { FaCheck } from 'react-icons/fa';
+
+import checkBox from './imagens/check_box-1.png'
 
 export default function Tratamentos() {
   return (
@@ -11,7 +12,7 @@ export default function Tratamentos() {
 
               <div className="titulo">
                   <div className="fa-icon">
-                   <img src="imagens/layout/checkbox.png" alt="" />
+                   <img src={checkBox} alt="imagem-checkBox" />
                   </div>
                   <h3>Implantandontia</h3>
               </div>
@@ -24,7 +25,7 @@ export default function Tratamentos() {
             <div className="box">
             <div className="titulo">
                   <div className="fa-icon">
-                    <img src="imagens/layout/checkbox.png" alt="" />
+                    <img src={checkBox} alt="imagem-checkBox" />
                   </div>
                   <h3>Prótese Dental</h3>
               </div>
@@ -36,7 +37,7 @@ export default function Tratamentos() {
             <div className="box">
             <div className="titulo">
                   <div className="fa-icon">
-                        <img src="imagens/layout/checkbox.png" alt="" />
+                        <img src={checkBox} alt="imagem-checkBox" />
                   </div>
                   <h3>Ortodontia</h3>
               </div>
@@ -47,7 +48,7 @@ export default function Tratamentos() {
             <div className="box">
             <div className="titulo">
                   <div className="fa-icon">
-                        <img src="imagens/layout/checkbox.png" alt="" />
+                        <img src={checkBox} alt="imagem-checkBox" />
                   </div>
                   <h3>Estética</h3>
               </div>

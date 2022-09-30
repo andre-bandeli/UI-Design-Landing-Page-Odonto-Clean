@@ -2,13 +2,17 @@
 import React from 'react'
 import './footer.scss'
 
+import logoEscura from './imagens/logoescuro.png';
+import canal from './imagens/vector.png';
+import instagran from './imagens/vector-1.png'
+
 export default function Footer() {
   return (
     <div className='footer'>
 
       <div className="container">
           <div className="col-sm">
-            <img src="imagens/layout/logoescuro.png" alt="" />
+            <img src={logoEscura} alt="imagem de logo" />
           </div>
           <div className="col-sm">
            <h3>Funcionamento</h3>
@@ -35,8 +39,8 @@ export default function Footer() {
           <div className="col-sm">
           <h3>Rede social</h3>
             <div className="redes">
-                <img src="imagens/layout/vector.png" alt="" />
-                <img src="imagens/layout/vector-1.png" alt="" />
+                <img src={canal} alt="imagem canal youtube" />
+                <img src={instagran} alt="imagem instagram" />
             </div>
           </div>
          

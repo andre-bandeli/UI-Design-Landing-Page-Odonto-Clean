@@ -1,6 +1,8 @@
 import React from 'react'
 import './duvidas.scss'
 
+import img1 from './imagens/escovando-dentes.jpg';
+import img2 from './imagens/sorriso.jpg';
 
 import {
     Accordion,
@@ -126,14 +128,14 @@ export default function Duvidas() {
             <div className="col-6">
 
                 <div className="card-box-tras">
-                    <img src="imagens/sorr.jpg" alt="" />
+                    <img src={img1} alt="imagem escovando dentes" />
 
                 </div>
                 <div className="card-box-meio">
 
                 </div>
                 <div className="card-box-frente">
-                    <img src="imagens/escovando-dentes.jpg" alt="" />
+                    <img src={img2} alt="imagem sorrindo" />
                 </div>
                 
             </div>
