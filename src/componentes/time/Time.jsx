@@ -16,7 +16,7 @@ export default function Time() {
     {width: 375, itemsToShow: 1},
     {width: 550, itemsToShow: 1},
     {width: 768, itemsToShow: 2},
-    {width: 1024, itemsToShow: 2},
+    {width: 1024, itemsToShow: 3},
     {width: 1200, itemsToShow: 4},
   ]
 
@@ -33,7 +33,7 @@ export default function Time() {
                   <img src={med1} alt="imagem-medico" />
             </div>
             <div className="nome">
-            <h2>Dra. Ana Pereira</h2>
+            <h2>Dra. Carlos Pereira</h2>
               <h3>Ortodontista</h3>
             </div>
 
@@ -65,7 +65,7 @@ export default function Time() {
             <img src={med4} alt="imagem-medico" />
             </div>
             <div className="nome">
-            <h2>Dr. Pedro Ribeiro</h2>
+            <h2>Dr. Luisa Ribeiro</h2>
               <h3>Ortodontista</h3>
             </div>
 

@@ -5,7 +5,7 @@ import imagemHeader from'./imagens/imagemInicial.png';
 
 export default function Header() {
   return (
-    <div className='slider'>
+    <div className='header'>
 
         <div className="container">
             <div className="col-6">
