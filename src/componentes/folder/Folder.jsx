@@ -19,7 +19,7 @@ export default function Folder() {
             </button>
 
           </div>
-            <div className="col-4">
+            <div className="col-8">
                 <img src={imagem} alt="imagem dentista com paciente" />
             </div>
         </div>

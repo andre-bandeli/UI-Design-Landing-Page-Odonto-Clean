@@ -9,7 +9,8 @@ const Navigation = () => {
         <nav className="Navigation">
              <img src={logo} alt="imagem-logo" />
              <div className="btn-agendar">
-                <button className='btn'> <img src={btnCheck} alt="botao-agendar" />
+                <button className='btn'> 
+                <img src={btnCheck} alt="botao-agendar" />
                 <a href="">AGENDAR</a></button>
             </div>
         <NavLinks/>

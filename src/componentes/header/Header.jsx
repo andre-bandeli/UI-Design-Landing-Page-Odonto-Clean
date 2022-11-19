@@ -24,14 +24,17 @@ export default function Header() {
                         Saiba mais
                       </button>
                   </div>
-
-              
             </div>
             <div className="col-6">
 
               <img src={imagemHeader} alt="imagem-inicial" />
                 
             </div>
+
+        </div>
+        <div className="container-md">
+          <h3>Entre em contato</h3>
+          <h2>(11) 3855-5478</h2>
         </div>
 
     </div>
