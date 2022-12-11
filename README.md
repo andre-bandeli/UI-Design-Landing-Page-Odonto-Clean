@@ -70,9 +70,8 @@ dom
 
 Desing criado por Tiago Alves
 
-- https://www.behance.net/gallery/149465719/UI-Design-Landing-Page-Odoton-Clean
-- https://www.figma.com/file/JPJsSVpSdpVb4QAfBOE6Ij/Landign-Page
-
+- [Behance](https://www.behance.net/gallery/149465719/UI-Design-Landing-Page-Odoton-Clean)
+- [Figma](https://www.figma.com/file/JPJsSVpSdpVb4QAfBOE6Ij/Landign-Page)
 
 ---
 ![odonto1](https://user-images.githubusercontent.com/87938869/206890220-cef91d10-aeb2-4fe3-a677-abe281bf05ab.jpg)
